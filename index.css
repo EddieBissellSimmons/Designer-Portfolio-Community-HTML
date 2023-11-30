@@ -1,0 +1,500 @@
+.i-phone11-pro-max1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.i-phone11-pro-max1-i-phone11-pro-max1 {
+  width: 100%;
+  height: 8772px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(32, 32, 32, 1);
+}
+.i-phone11-pro-max1-ellipse1 {
+  top: 144px;
+  left: 87px;
+  width: 240px;
+  height: 240px;
+  position: absolute;
+}
+.i-phone11-pro-max1-text {
+  top: 448px;
+  left: 24px;
+  color: rgba(222, 222, 222, 1);
+  width: 366px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-text05 {
+  top: 588px;
+  left: 24px;
+  color: rgba(148, 148, 148, 1);
+  width: 366px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-btn {
+  gap: 16px;
+  top: 714px;
+  left: 86px;
+  width: 242px;
+  display: flex;
+  padding: 16px 48px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(157, 157, 157, 1);
+}
+.i-phone11-pro-max1-group {
+  width: 21px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.i-phone11-pro-max1-vector {
+  top: 0px;
+  left: 0px;
+  width: 21px;
+  height: 16px;
+  position: absolute;
+}
+.i-phone11-pro-max1-vector1 {
+  top: 1.7142980098724365px;
+  left: 0px;
+  width: 21px;
+  height: 6px;
+  position: absolute;
+}
+.i-phone11-pro-max1-text07 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-featured-work {
+  gap: 24px;
+  top: 899px;
+  left: 24px;
+  width: 165px;
+  display: flex;
+  padding: 8px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.i-phone11-pro-max1-arrow1 {
+  width: 24px;
+  height: 1px;
+}
+.i-phone11-pro-max1-text09 {
+  color: rgba(222, 222, 222, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-rectangle3 {
+  top: 979px;
+  left: 24px;
+  width: 366px;
+  height: 600px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-rectangle4 {
+  top: 1603px;
+  left: 24px;
+  width: 366px;
+  height: 600px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-rectangle5 {
+  top: 2227px;
+  left: 24px;
+  width: 366px;
+  height: 600px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-rectangle16 {
+  top: 2851px;
+  left: 24px;
+  width: 366px;
+  height: 600px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-unsplashmr4jg4syof8 {
+  top: 6187px;
+  left: 24px;
+  width: 366px;
+  height: 600px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-unsplash-vj3mkl0-yog {
+  top: 6811px;
+  left: 24px;
+  width: 366px;
+  height: 600px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-unsplashi-d5a-vjfcx-jg {
+  top: 7435px;
+  left: 24px;
+  width: 366px;
+  height: 600px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-text11 {
+  top: 8235px;
+  left: 130px;
+  color: rgba(222, 222, 222, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-text13 {
+  top: 8285px;
+  left: 24px;
+  color: rgba(148, 148, 148, 1);
+  width: 366px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-btn1 {
+  gap: 16px;
+  top: 8401px;
+  left: 86px;
+  width: 242px;
+  display: flex;
+  padding: 16px 48px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(157, 157, 157, 1);
+}
+.i-phone11-pro-max1-group1 {
+  width: 21px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.i-phone11-pro-max1-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 21px;
+  height: 16px;
+  position: absolute;
+}
+.i-phone11-pro-max1-vector3 {
+  top: 1.7142980098724365px;
+  left: 0px;
+  width: 21px;
+  height: 6px;
+  position: absolute;
+}
+.i-phone11-pro-max1-text20 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-rectangle6 {
+  top: 3639px;
+  left: 24px;
+  width: 366px;
+  height: 366px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-rectangle7 {
+  top: 4021px;
+  left: 24px;
+  width: 366px;
+  height: 366px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-rectangle8 {
+  top: 4403px;
+  left: 24px;
+  width: 366px;
+  height: 366px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-rectangle9 {
+  top: 4785px;
+  left: 24px;
+  width: 366px;
+  height: 366px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-rectangle10 {
+  top: 5167px;
+  left: 24px;
+  width: 366px;
+  height: 366px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-rectangle11 {
+  top: 5549px;
+  left: 24px;
+  width: 366px;
+  height: 366px;
+  position: absolute;
+  border-radius: 4px;
+}
+.i-phone11-pro-max1-text22 {
+  top: 3567px;
+  left: 82px;
+  color: rgba(222, 222, 222, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-text24 {
+  top: 6115px;
+  left: 124px;
+  color: rgba(222, 222, 222, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-text26 {
+  top: 8686px;
+  left: 24px;
+  color: rgba(148, 148, 148, 1);
+  width: 366px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-text27 {
+  color: rgba(148, 148, 148, 1);
+}
+.i-phone11-pro-max1-text28 {
+  color: rgba(235, 235, 235, 1);
+}
+.i-phone11-pro-max1-rectangle15 {
+  top: 8580px;
+  left: 0px;
+  width: 414px;
+  height: 1px;
+  position: absolute;
+}
+.i-phone11-pro-max1-icons {
+  top: 8629px;
+  left: 82px;
+  width: 249px;
+  height: 22px;
+  position: absolute;
+}
+.i-phone11-pro-max1-text30 {
+  top: 1260px;
+  left: 145px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-nav {
+  top: 0px;
+  left: 0px;
+  width: 414px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(49, 49, 49, 0.699999988079071);
+}
+.i-phone11-pro-max1-ham {
+  top: 28px;
+  left: 369px;
+  width: 21px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.i-phone11-pro-max1-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 21px;
+  height: 16px;
+  position: absolute;
+}
+.i-phone11-pro-max1-logo {
+  top: 16px;
+  left: 24px;
+  width: 135.99993896484375px;
+  height: 40.846153259277344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.i-phone11-pro-max1-text32 {
+  top: 7px;
+  left: 39.99993896484375px;
+  color: rgba(222, 222, 222, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-group2 {
+  top: 0px;
+  left: 0px;
+  width: 28.999940872192383px;
+  height: 40.846153259277344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.i-phone11-pro-max1-group6 {
+  top: 0px;
+  left: 0px;
+  width: 28.999940872192383px;
+  height: 40.846153259277344px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.i-phone11-pro-max1-text34 {
+  top: 9.000000953674316px;
+  color: rgba(222, 222, 222, 1);
+  width: 23px;
+  height: auto;
+  position: absolute;
+  font-size: 35.38460922241211px;
+  font-style: Bold;
+  text-align: left;
+  font-family: THICCCBOI;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone11-pro-max1-text35 {
+  top: 31.846155166625977px;
+  left: 28.99993896484375px;
+  color: rgba(222, 222, 222, 1);
+  width: 23px;
+  height: auto;
+  position: absolute;
+  font-size: 35.38460922241211px;
+  font-style: Bold;
+  text-align: left;
+  font-family: THICCCBOI;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
